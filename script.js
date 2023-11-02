@@ -1,5 +1,5 @@
-let myGreeting = "Hello World!";
-console.log(myGreeting);
+let myGreeting = "Hello World!"; // assigns hello world to myGreeting
+console.log(myGreeting); // returns Hello World to the console
 
 const pi = 3.14;
 /* pi = 2.345; */ // cannot reassign const variables.
